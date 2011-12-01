@@ -1,3 +1,9 @@
+blankon-fontconfig (0.0.3) rote; urgency=low
+
+  * Added missing .install file 
+
+ -- Mohammad Anwari <mdamt@mnots.eu>  Thu, 01 Dec 2011 22:50:32 +0200
+
 blankon-fontconfig (0.0.2) rote; urgency=low
 
   * Added udeb package 
