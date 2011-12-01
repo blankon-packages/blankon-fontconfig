@@ -16,6 +16,6 @@ Package: blankon-fontconfig-udeb
 Package-Type: udeb
 Section: debian-installer
 Architecture: all
-Depends: fontconfig, ttf-cantarell-udeb
+Depends: fontconfig-udeb, ttf-cantarell-udeb
 Description: BlankOn font configuration 
  Configuration of fontconfig.
