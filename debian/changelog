@@ -1,3 +1,9 @@
+blankon-fontconfig (0.0.2) rote; urgency=low
+
+  * Added udeb package 
+
+ -- Mohammad Anwari <mdamt@mnots.eu>  Thu, 01 Dec 2011 22:33:45 +0200
+
 blankon-fontconfig (0.0.1) rote; urgency=low
 
   * New release 

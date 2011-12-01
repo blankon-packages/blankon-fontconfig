@@ -11,3 +11,11 @@ Architecture: all
 Depends: defoma, fontconfig, ttf-cantarell, ttf-inconsolata
 Description: BlankOn font configuration 
  Configuration of fontconfig.
+
+Package: blankon-fontconfig-udeb
+Package-Type: udeb
+Section: debian-installer
+Architecture: all
+Depends: fontconfig, ttf-cantarell, ttf-inconsolata
+Description: BlankOn font configuration 
+ Configuration of fontconfig.
