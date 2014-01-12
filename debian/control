@@ -3,12 +3,12 @@ Section: x11
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
 Build-Depends: cdbs, debhelper (>= 5.0.0)
-Standards-Version: 3.8.0
+Standards-Version: 3.9.4
 Homepage: http://www.blankonlinux.or.id
 
 Package: blankon-fontconfig
 Architecture: all
-Depends: defoma, fontconfig, ttf-cantarell, ttf-inconsolata
+Depends: defoma, fontconfig, fonts-cantarell, fonts-inconsolata
 Description: BlankOn font configuration 
  Configuration of fontconfig.
 
@@ -16,6 +16,6 @@ Package: blankon-fontconfig-udeb
 Package-Type: udeb
 Section: debian-installer
 Architecture: all
-Depends: fontconfig-udeb, ttf-cantarell-udeb
+Depends: fontconfig-udeb
 Description: BlankOn font configuration 
  Configuration of fontconfig.

@@ -1,3 +1,11 @@
+blankon-fontconfig (0.0.5) suroboyo; urgency=medium
+
+  * changes debian/control:
+    - Bump Standard-Version 3.9.4
+    - Changes depends ttf-* to fonts-* 
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sun, 12 Jan 2014 17:59:52 +0700
+
 blankon-fontconfig (0.0.4) rote; urgency=low
 
   * Use fontconfig-udeb instead of fontconfig for the udeb package
