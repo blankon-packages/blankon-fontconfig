@@ -8,7 +8,7 @@ Homepage: http://www.blankonlinux.or.id
 
 Package: blankon-fontconfig
 Architecture: all
-Depends: defoma, fontconfig, fonts-cantarell, fonts-inconsolata
+Depends: defoma, fontconfig, fonts-cantarell, fonts-hermit
 Description: BlankOn font configuration 
  Configuration of fontconfig.
 

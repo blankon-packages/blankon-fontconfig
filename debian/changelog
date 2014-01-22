@@ -1,3 +1,11 @@
+blankon-fontconfig (0.0.6) suroboyo; urgency=low
+
+  * Chnages:
+    - 40-blankon.conf default monospace font: change from Inconsolata to Hermit
+    - debian/control: change depends fonts-inconsolata to fonts-hermit
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Wed, 22 Jan 2014 22:43:04 +0700
+
 blankon-fontconfig (0.0.5) suroboyo; urgency=medium
 
   * changes debian/control:
