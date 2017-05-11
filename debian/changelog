@@ -1,3 +1,9 @@
+blankon-fontconfig (0.0.8) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Thu, 11 May 2017 20:29:18 +0800
+
 blankon-fontconfig (0.0.7) tambora; urgency=low
 
   * First upload to tambora
